@@ -7,6 +7,11 @@ name = "pypi"
 pandas = "*"
 numpy = "*"
 jupyter = "*"
+requests = "*"
+"beautifulsoup4" = "*"
+scikit-learn = "*"
+folium = "*"
+matplotlib = "*"
 
 [dev-packages]
 
