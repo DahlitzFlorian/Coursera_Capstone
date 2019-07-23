@@ -12,6 +12,8 @@ requests = "*"
 scikit-learn = "*"
 folium = "*"
 matplotlib = "*"
+geopy = "*"
+ipykernel = "*"
 
 [dev-packages]
 
