@@ -18,4 +18,21 @@ The data will be accessed through Foursquares API.
 It is available in JSON format.
 
 
+## Methodology
+
+In order to answer the questions formulated in the introductions section with the data from [Foursquare][Foursquare], an analytical approach is used.
+Therefore, location data for both cities, Hamburg and New York, is queried from Foursquare and prepared afterwards.
+In the next step k-means clustering is used to cluster neighbourhoods of each city and compare them.
+Lastly, both cities clusters are compared and evaluated to show how similar or dissimilar they are.
+
+
+## Results
+
+
+## Discussion
+
+
+## Conclusion
+
+
 [Foursquare]: https://foursquare.com/
